@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in **Data science and AI**
 
-- 👨‍💻 All of my projects are available at [troopl.com/deepthiaj63](troopl.com/deepthiaj63)
+- 👨‍💻 All of my projects are available at https://troopl.com/deepthiaj63
 
 - 📫 How to reach me **deepthi.aj63@gmail.com**
 
